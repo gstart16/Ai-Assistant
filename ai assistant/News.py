@@ -1,7 +1,7 @@
 import requests
 
 # Define your API key
-key = "aec567d245374653aa94027f990e8b10"
+key = "your api key"
 
 # Construct the API address
 api_address = f"https://newsapi.org/v2/everything?q=Apple&sortBy=popularity&apiKey={key}"
